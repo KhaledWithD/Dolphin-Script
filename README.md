@@ -1,5 +1,5 @@
 <p align="center" style="position:absolute">
-  <img src="https://github.com/KhaledWithD/Dolphin-Script/blob/main/dolphin-script-logo.jpg" width=200 height=200>
+  <img src="https://github.com/KhaledWithD/Dolphin-Script/blob/main/Dein%20Abschnittstext.png">
 </p>
 
 # Dolphin-Script 
