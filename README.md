@@ -13,3 +13,25 @@ Dolphin Script is a very powerfull coding language. With this language you have 
 ### Windows
 
 ### Linux & Ubuntu
+
+
+## Usage
+
+### Execute Dolphin Files
+
+```cmd
+dolphin FILE_NAME OR FILE_PATH
+```
+
+### Coding with Dolphin Script
+
+1. Example: Creating variables and printing them out
+```dol
+REM Creating a variable with the value 1
+
+SET var 1
+
+REM Printing the variable to the console
+
+WRITELINE %var
+```
