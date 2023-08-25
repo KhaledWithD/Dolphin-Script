@@ -27,9 +27,9 @@ dolphin FILE_NAME OR FILE_PATH
 
 1. Example: Creating variables and printing them out
 ```dol
-REM Creating a variable with the value 1
+REM Creating a variable with the value "Hello World"
 
-SET var 1
+SET var "Hello World"
 
 REM Printing the variable to the console
 
